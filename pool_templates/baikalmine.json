@@ -69,6 +69,12 @@
                 "urls": [
                     "dnx.baikalmine.com:9090"
                 ]
+            },
+	    {
+                "geo": "Frankfurt",
+                "urls": [
+                    "dnx-eu.baikalmine.com:9090"
+                ]
             }
         ],
         "miners": {
